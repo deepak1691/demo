@@ -1,3 +1,3 @@
 # new project
 
-by me and it's all done
+by me and it's all done.
